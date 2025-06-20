@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{368347D0-30AB-4D86-929D-96B9E12BC7B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{739BB01B-8236-4A7F-9F07-4ED5490D935B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{368347D0-30AB-4D86-929D-96B9E12BC7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368347D0-30AB-4D86-929D-96B9E12BC7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368347D0-30AB-4D86-929D-96B9E12BC7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
