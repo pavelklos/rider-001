@@ -15,3 +15,4 @@
   - Web - Web App (Razor Pages) [WebAppRazorPages1.csproj](WebAppRazorPages1/WebAppRazorPages1.csproj)
   - Web - gRPC Service [GrpcService1.csproj](GrpcService1/GrpcService1.csproj)
   - Services [WorkerService1.csproj](WorkerService1/WorkerService1.csproj)
+  - Unit Test - NUnit 3 [TestProjectNunit1.csproj](TestProjectNunit1/TestProjectNunit1.csproj)

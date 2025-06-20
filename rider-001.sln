@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService1", "GrpcService
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService1", "WorkerService1\WorkerService1.csproj", "{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectNunit1", "TestProjectNunit1\TestProjectNunit1.csproj", "{E0C2C169-D62F-404C-897D-E944763B20ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C2C169-D62F-404C-897D-E944763B20ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C2C169-D62F-404C-897D-E944763B20ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C2C169-D62F-404C-897D-E944763B20ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C2C169-D62F-404C-897D-E944763B20ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
