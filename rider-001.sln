@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppServer1", "BlazorAppServer1\BlazorAppServer1.csproj", "{72EDF7E3-2CCD-4488-BBAA-6676BC212783}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly1", "BlazorAppWebAssembly1\BlazorAppWebAssembly1\BlazorAppWebAssembly1.csproj", "{1E568A86-A51B-4D06-B5BB-A831A6F5D42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly1.Client", "BlazorAppWebAssembly1\BlazorAppWebAssembly1.Client\BlazorAppWebAssembly1.Client.csproj", "{117C2793-B8A2-42CA-AB49-D5B24F386CC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E568A86-A51B-4D06-B5BB-A831A6F5D42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E568A86-A51B-4D06-B5BB-A831A6F5D42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E568A86-A51B-4D06-B5BB-A831A6F5D42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E568A86-A51B-4D06-B5BB-A831A6F5D42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117C2793-B8A2-42CA-AB49-D5B24F386CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117C2793-B8A2-42CA-AB49-D5B24F386CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117C2793-B8A2-42CA-AB49-D5B24F386CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117C2793-B8A2-42CA-AB49-D5B24F386CC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
