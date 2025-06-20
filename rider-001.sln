@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRazorPages1", "WebApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService1", "GrpcService1\GrpcService1.csproj", "{AEF68A1D-3191-460D-9B9E-B95C172FC8CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService1", "WorkerService1\WorkerService1.csproj", "{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{AEF68A1D-3191-460D-9B9E-B95C172FC8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF68A1D-3191-460D-9B9E-B95C172FC8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF68A1D-3191-460D-9B9E-B95C172FC8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC71B017-31F0-4D7A-B58B-D5D8324FCB44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
