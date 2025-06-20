@@ -2,3 +2,4 @@
 
 - Solution [rider-001.sln](rider-001.sln) <small>with projects:</small>
   - Console [ConsoleApp1.csproj](ConsoleApp1/ConsoleApp1.csproj)
+  - Class Library [ClassLibrary1.csproj](ClassLibrary1/ClassLibrary1.csproj)
