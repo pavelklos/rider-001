@@ -11,3 +11,4 @@
     - [BlazorAppWebAssembly1.Client.csproj](BlazorAppWebAssembly1/BlazorAppWebAssembly1.Client/BlazorAppWebAssembly1.Client.csproj)
   - Web - Web API [WebApi1.csproj](WebApi1/WebApi1.csproj)
   - Web - Web API - Minimal API [WebApiMinimalApi1.csproj](WebApiMinimalApi1/WebApiMinimalApi1.csproj)
+  - Web - Web App (Model-View-Controller) [WebAppMvc1.csproj](WebAppMvc1/WebAppMvc1.csproj)
