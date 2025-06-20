@@ -17,3 +17,4 @@
   - Services [WorkerService1.csproj](WorkerService1/WorkerService1.csproj)
   - Unit Test - NUnit 3 [TestProjectNunit1.csproj](TestProjectNunit1/TestProjectNunit1.csproj)
   - Unit Test - MSTest [TestProjectMstest1.csproj](TestProjectMstest1/TestProjectMstest1.csproj)
+  - Unit Test - xUnit [TestProjectXunit1.csproj](TestProjectXunit1/TestProjectXunit1.csproj)
