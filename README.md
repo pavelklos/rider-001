@@ -9,3 +9,4 @@
   - Web - Blazor Web App - WebAssembly
     - [BlazorAppWebAssembly1.csproj](BlazorAppWebAssembly1/BlazorAppWebAssembly1/BlazorAppWebAssembly1.csproj)
     - [BlazorAppWebAssembly1.Client.csproj](BlazorAppWebAssembly1/BlazorAppWebAssembly1.Client/BlazorAppWebAssembly1.Client.csproj)
+  - Web - Web API [WebApi1.csproj](WebApi1/WebApi1.csproj)
