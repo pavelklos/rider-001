@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{739BB01B-8236-4A7F-9F07-4ED5490D935B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppServer1", "BlazorAppServer1\BlazorAppServer1.csproj", "{72EDF7E3-2CCD-4488-BBAA-6676BC212783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739BB01B-8236-4A7F-9F07-4ED5490D935B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EDF7E3-2CCD-4488-BBAA-6676BC212783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

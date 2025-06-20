@@ -5,3 +5,4 @@
   - Class Library [ClassLibrary1.csproj](ClassLibrary1/ClassLibrary1.csproj)
   - Desktop - WPF Application [WpfApp1.csproj](WpfApp1/WpfApp1.csproj)
   - Desktop - Windows Forms App [WinFormsApp1.csproj](WinFormsApp1/WinFormsApp1.csproj)
+  - Web - Blazor Web App - Server [BlazorAppServer1.csproj](BlazorAppServer1/BlazorAppServer1.csproj)
