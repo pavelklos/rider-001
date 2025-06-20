@@ -12,3 +12,4 @@
   - Web - Web API [WebApi1.csproj](WebApi1/WebApi1.csproj)
   - Web - Web API - Minimal API [WebApiMinimalApi1.csproj](WebApiMinimalApi1/WebApiMinimalApi1.csproj)
   - Web - Web App (Model-View-Controller) [WebAppMvc1.csproj](WebAppMvc1/WebAppMvc1.csproj)
+  - Web - Web App (Razor Pages) [WebAppRazorPages1.csproj](WebAppRazorPages1/WebAppRazorPages1.csproj)

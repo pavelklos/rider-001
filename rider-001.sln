@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiMinimalApi1", "WebApi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMvc1", "WebAppMvc1\WebAppMvc1.csproj", "{8476541D-9835-465F-B9F2-A08B9A5F0A2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRazorPages1", "WebAppRazorPages1\WebAppRazorPages1.csproj", "{FDB92852-E61C-46CA-A954-57E5A4C1ACBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{8476541D-9835-465F-B9F2-A08B9A5F0A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8476541D-9835-465F-B9F2-A08B9A5F0A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8476541D-9835-465F-B9F2-A08B9A5F0A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB92852-E61C-46CA-A954-57E5A4C1ACBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB92852-E61C-46CA-A954-57E5A4C1ACBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB92852-E61C-46CA-A954-57E5A4C1ACBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB92852-E61C-46CA-A954-57E5A4C1ACBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
