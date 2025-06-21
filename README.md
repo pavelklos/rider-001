@@ -1,6 +1,8 @@
 # rider-001 <small>(JetBrains Rider Course steps)</small>
 
-- Solution [rider-001.sln](rider-001.sln) <small>with projects:</small>
+- Recommended **.gitignore** files ([.NET](https://github.com/github/gitignore/blob/main/Dotnet.gitignore), [JetBrains](https://www.toptal.com/developers/gitignore/api/jetbrains), [JetBrains Rider](https://github.com/JetBrains/resharper-rider-samples/blob/master/.gitignore))
+
+- Solution [rider-001.sln](rider-001.sln) with <ins>**Project types**</ins>:
   - Console [ConsoleApp1.csproj](ConsoleApp1/ConsoleApp1.csproj)
   - Class Library [ClassLibrary1.csproj](ClassLibrary1/ClassLibrary1.csproj)
   - Desktop - WPF Application [WpfApp1.csproj](WpfApp1/WpfApp1.csproj)
@@ -18,3 +20,5 @@
   - Unit Test - NUnit 3 [TestProjectNunit1.csproj](TestProjectNunit1/TestProjectNunit1.csproj)
   - Unit Test - MSTest [TestProjectMstest1.csproj](TestProjectMstest1/TestProjectMstest1.csproj)
   - Unit Test - xUnit [TestProjectXunit1.csproj](TestProjectXunit1/TestProjectXunit1.csproj)
+
+- **Working with codebase** [DometrainRiderPlayground](DometrainRiderPlayground/) ([csproj](DometrainRiderPlayground/DometrainRiderPlayground.csproj))
