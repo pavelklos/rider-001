@@ -8,7 +8,8 @@ public class MyOtherImplementation : IMyInterface
 
     public void MyPublicMethod()
     {
-        Console.WriteLine($"Hi! I'm a different implementation, and I've been called {MyPublicMethodCallCounter} times!");
+        Console.WriteLine(
+            $"Hi! I'm a different implementation, and I've been called {MyPublicMethodCallCounter} times!");
         MyPublicMethodCallCounter++;
     }
 }
