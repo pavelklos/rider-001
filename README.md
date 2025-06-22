@@ -21,4 +21,4 @@
   - Unit Test - MSTest [TestProjectMstest1.csproj](TestProjectMstest1/TestProjectMstest1.csproj)
   - Unit Test - xUnit [TestProjectXunit1.csproj](TestProjectXunit1/TestProjectXunit1.csproj)
 
-- **Working with codebase** [DometrainRiderPlayground](DometrainRiderPlayground/) ([csproj](DometrainRiderPlayground/DometrainRiderPlayground.csproj))
+- **Working with codebase** [DometrainRiderPlayground](DometrainRiderPlayground/) ([csproj](DometrainRiderPlayground/DometrainRiderPlayground.csproj)) <small>Console</small>
