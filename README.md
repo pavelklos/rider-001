@@ -24,3 +24,4 @@
 - Course steps:
   - **Working with codebase** [DometrainRiderPlayground](DometrainRiderPlayground/) ([csproj](DometrainRiderPlayground/DometrainRiderPlayground.csproj)) <small>Console</small>
   - **Debugging** [DometrainDebuggingPlayground](DometrainDebuggingPlayground/) ([csproj](DometrainDebuggingPlayground/DometrainDebuggingPlayground.csproj)) <small> Web API</small>
+  - **Debugging (Tests)** [DometrainDebuggingPlayground.Tests](DometrainDebuggingPlayground.Tests/) ([csproj](DometrainDebuggingPlayground.Tests/DometrainDebuggingPlayground.Tests.csproj)) <small> Web API (Integration Test - xUnit)</small>
