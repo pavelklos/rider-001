@@ -5,5 +5,15 @@ Accept: application/json
 
 ###
 
+GET {{DometrainDebuggingPlayground_HostAddress}}/podcasts/bygenre?genre=Kubernetes
+Accept: application/json
+
+###
+
 GET {{DometrainDebuggingPlayground_HostAddress}}/podcasts/bysearchterm?searchTerm=Exception
+Accept: application/json
+
+###
+
+GET {{DometrainDebuggingPlayground_HostAddress}}/podcasts/bysearchterm?searchTerm=Podcast
 Accept: application/json
