@@ -18,6 +18,8 @@ public class HardcodedPodcastSource : IPodcastSource
                 "Kubernetes Podcast",
                 "Kubernetes",
                 "https://kubernetespodcast.com/"),
+            // Debugging Exceptions
+            // null!,
         };
 
         return Task.FromResult<IEnumerable<Podcast>>(podcasts);
