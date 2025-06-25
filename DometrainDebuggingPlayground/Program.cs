@@ -3,6 +3,11 @@ using DometrainDebuggingPlayground.PodcastSource;
 using DometrainDebuggingPlayground.PodcastsService;
 using DometrainDebuggingPlayground.ThreadDemo;
 
+// [Debugging 3rd-party code]
+// - MAKE TYPO IN FILE [launchSettings.json]
+//   "ASPNETCORE_ENVIRONMENT": "Developmnt"
+// - ADD BREAKPOINT TO THIS LINE
+// - DEBUG TO FIND OUT WHY AND WHERE IT FAILS
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
