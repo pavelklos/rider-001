@@ -33,6 +33,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// [Debugging multi-threaded code]
 Threads.Execute();
 
 app.Run();

@@ -62,3 +62,6 @@ nunit-*.xml
 # .idea/**/dictionaries
 # .idea/**/shelf
 .idea/**
+
+# Rider solution files
+rider-001.sln.DotSettings.user
