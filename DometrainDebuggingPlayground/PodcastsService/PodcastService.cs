@@ -16,6 +16,9 @@ public class PodcastService(
 
         var podcasts = await podcastSource.GetPodcastsAsync();
 
+        // Analyze Stack Trace or Thread Dump...
+        // throw new TaskCanceledException();
+
         return podcasts
             .Where(x => x.Genre == genre)
             .OrderBy(x => x.Title)
