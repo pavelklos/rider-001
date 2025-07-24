@@ -7,6 +7,8 @@ namespace DometrainDebuggingPlayground.Tests;
 
 public class PodcastTests
 {
+    //pavelklos: Run all tests in this class
+    
     [Fact]
     public async Task GetPodcastsTests()
     {
