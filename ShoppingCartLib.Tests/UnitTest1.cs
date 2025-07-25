@@ -22,8 +22,7 @@ public class UnitTest1
             .Should()
             .BeEquivalentTo(["Docker course"]);
     }
-    
-    
+
     [Fact]
     public void AddMultipleProducts()
     {
