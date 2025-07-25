@@ -1,8 +1,9 @@
 ﻿using FluentAssertions;
+using Xunit.Abstractions;
 
 namespace ShoppingCartLib.Tests;
 
-public class UnitTest1
+public class UnitTest1(ITestOutputHelper testOutputHelper)
 {
     [Fact]
     public void ANewCartShouldBeEmpty()
@@ -11,6 +12,10 @@ public class UnitTest1
         sut.Get()
             .Should()
             .BeEquivalentTo([]);
+
+        // This line is commented out because it does not work in the context of xUnit
+        // Console.WriteLine("Some log");
+        testOutputHelper.WriteLine("Some log");
     }
 
     [Fact]
