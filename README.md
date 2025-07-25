@@ -26,3 +26,5 @@
   - **Debugging**
     - [DometrainDebuggingPlayground](DometrainDebuggingPlayground/) ([csproj](DometrainDebuggingPlayground/DometrainDebuggingPlayground.csproj)) <small> Web API</small>
     - [DometrainDebuggingPlayground.Tests](DometrainDebuggingPlayground.Tests/) ([csproj](DometrainDebuggingPlayground.Tests/DometrainDebuggingPlayground.Tests.csproj)) <small> Web API (Integration Test - xUnit)</small>
+  - **Testing**
+      - [ShoppingCartLib](ShoppingCartLib/) ([csproj](ShoppingCartLib/ShoppingCartLib.csproj)) <small> Class Library</small>
