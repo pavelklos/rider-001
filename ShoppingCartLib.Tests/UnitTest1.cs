@@ -8,7 +8,9 @@ public class UnitTest1
     public void ANewCartShouldBeEmpty()
     {
         var sut = new ShoppingCart();
-        sut.Get().Should().BeEquivalentTo([]);
+        sut.Get()
+            .Should()
+            .BeEquivalentTo([]);
     }
 
     [Fact]
@@ -16,6 +18,33 @@ public class UnitTest1
     {
         var sut = new ShoppingCart();
         sut.Add("Docker course");
-        sut.Get().Should().BeEquivalentTo(["Docker course"]);
+        sut.Get()
+            .Should()
+            .BeEquivalentTo(["Docker course"]);
+    }
+    
+    
+    [Fact]
+    public void AddMultipleProducts()
+    {
+        var sut = new ShoppingCart();
+        sut.Add("Docker course");
+        sut.Add("Kubernetes course");
+        sut.Get()
+            .Should()
+            .BeEquivalentTo(["Docker course", "Kubernetes course"]);
+    }
+
+    [Fact]
+    public void TestWithResultTrue()
+    {
+        Assert.True(true);
+    }
+
+    [Fact]
+    public void TestWithResultFalse()
+    {
+        // This test is intentionally failing
+        Assert.True(false);
     }
 }
