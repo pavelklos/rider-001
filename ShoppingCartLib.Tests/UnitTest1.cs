@@ -1,4 +1,5 @@
 ﻿using FluentAssertions;
+using Flurl.Http.Testing;
 using Xunit.Abstractions;
 
 namespace ShoppingCartLib.Tests;
@@ -106,4 +107,10 @@ public class UnitTest1(ITestOutputHelper testOutputHelper)
     //     // This test is intentionally failing
     //     Assert.True(false);
     // }
+    
+    [Fact]
+    public void TestWithHttpClient()
+    {
+        var httpTest = new HttpTest();
+    }
 }
