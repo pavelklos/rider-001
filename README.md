@@ -24,9 +24,10 @@
 - Course steps:
   - **Working with codebase** [DometrainRiderPlayground](DometrainRiderPlayground/) ([csproj](DometrainRiderPlayground/DometrainRiderPlayground.csproj)) <small>Console</small>
   - **Debugging**
-    - [DometrainDebuggingPlayground](DometrainDebuggingPlayground/) ([csproj](DometrainDebuggingPlayground/DometrainDebuggingPlayground.csproj)) <small> Web API</small>
-    - [DometrainDebuggingPlayground.Tests](DometrainDebuggingPlayground.Tests/) ([csproj](DometrainDebuggingPlayground.Tests/DometrainDebuggingPlayground.Tests.csproj)) <small> Web API (Integration Test - xUnit)</small>
+    - [DometrainDebuggingPlayground](DometrainDebuggingPlayground/) ([csproj](DometrainDebuggingPlayground/DometrainDebuggingPlayground.csproj)) <small>Web API</small>
+    - [DometrainDebuggingPlayground.Tests](DometrainDebuggingPlayground.Tests/) ([csproj](DometrainDebuggingPlayground.Tests/DometrainDebuggingPlayground.Tests.csproj)) <small>Web API (Integration Test - xUnit)</small>
   - **Testing**
-    - [ShoppingCartLib](ShoppingCartLib/) ([csproj](ShoppingCartLib/ShoppingCartLib.csproj)) <small> Class Library</small>
-    - [ShoppingCartLib.Tests](ShoppingCartLib.Tests/) ([csproj](ShoppingCartLib.Tests/ShoppingCartLib.Tests.csproj)) <small> Class Library (Unit Test - xUnit)</small>
+    - [ShoppingCartLib](ShoppingCartLib/) ([csproj](ShoppingCartLib/ShoppingCartLib.csproj)) <small>Class Library</small>
+    - [ShoppingCartLib.Tests](ShoppingCartLib.Tests/) ([csproj](ShoppingCartLib.Tests/ShoppingCartLib.Tests.csproj)) <small>Class Library (Unit Test - xUnit)</small>
   - **AI**
+    - [AiAssistantDemo](AiAssistantDemo/) ([csproj](AiAssistantDemo/AiAssistantDemo.csproj)) <small>Console</small>
