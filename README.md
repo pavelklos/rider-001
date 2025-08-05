@@ -31,3 +31,4 @@
     - [ShoppingCartLib.Tests](ShoppingCartLib.Tests/) ([csproj](ShoppingCartLib.Tests/ShoppingCartLib.Tests.csproj)) <small>Class Library (Unit Test - xUnit)</small>
   - **AI**
     - [AiAssistantDemo](AiAssistantDemo/) ([csproj](AiAssistantDemo/AiAssistantDemo.csproj)) <small>Console</small>
+    - [AiAssistantDemo.Tests](AiAssistantDemo.Tests/) ([csproj](AiAssistantDemo.Tests/AiAssistantDemo.Tests.csproj)) <small>Class Library (Unit Test - xUnit)</small>
