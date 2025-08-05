@@ -29,3 +29,4 @@
   - **Testing**
     - [ShoppingCartLib](ShoppingCartLib/) ([csproj](ShoppingCartLib/ShoppingCartLib.csproj)) <small> Class Library</small>
     - [ShoppingCartLib.Tests](ShoppingCartLib.Tests/) ([csproj](ShoppingCartLib.Tests/ShoppingCartLib.Tests.csproj)) <small> Class Library (Unit Test - xUnit)</small>
+  - **AI**
