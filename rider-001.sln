@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiAssistantDemo", "AiAssist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiAssistantDemo.Tests", "AiAssistantDemo.Tests\AiAssistantDemo.Tests.csproj", "{7E19715C-9984-40A8-B62A-22C362F4FCFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceModule", "PerformanceModule\PerformanceModule.csproj", "{DD4475A5-2C9B-46DE-A11B-067CA1B8F986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{7E19715C-9984-40A8-B62A-22C362F4FCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E19715C-9984-40A8-B62A-22C362F4FCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E19715C-9984-40A8-B62A-22C362F4FCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4475A5-2C9B-46DE-A11B-067CA1B8F986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4475A5-2C9B-46DE-A11B-067CA1B8F986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4475A5-2C9B-46DE-A11B-067CA1B8F986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4475A5-2C9B-46DE-A11B-067CA1B8F986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
