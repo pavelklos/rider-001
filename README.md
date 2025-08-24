@@ -36,3 +36,4 @@
     - [PerformanceModule](PerformanceModule/) ([csproj](PerformanceModule/PerformanceModule.csproj)) <small>Console (Spectre.Console)</small>
     - [PerformanceModule.Tests](PerformanceModule.Tests/) ([csproj](PerformanceModule.Tests/PerformanceModule.Tests.csproj)) <small>Console (Unit Test - xUnit)</small>
   - **Remote Collaboration** [FibonacciCalculator.cs](FibonacciCalculator.cs) <small>Class</small>
+  - **Integrated HTTP Client and Endpoints**

@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceModule", "Perfor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceModule.Tests", "PerformanceModule.Tests\PerformanceModule.Tests.csproj", "{F6523610-A563-4CC6-B60A-C69573F43449}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratedHttpClient-DemoApi", "IntegratedHttpClient-DemoApi\IntegratedHttpClient-DemoApi.csproj", "{C60E760F-B9C8-40FF-A3F1-996436B8CF40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{F6523610-A563-4CC6-B60A-C69573F43449}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6523610-A563-4CC6-B60A-C69573F43449}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6523610-A563-4CC6-B60A-C69573F43449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E760F-B9C8-40FF-A3F1-996436B8CF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E760F-B9C8-40FF-A3F1-996436B8CF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E760F-B9C8-40FF-A3F1-996436B8CF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E760F-B9C8-40FF-A3F1-996436B8CF40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
