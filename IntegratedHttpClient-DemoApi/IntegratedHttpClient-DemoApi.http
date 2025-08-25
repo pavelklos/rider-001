@@ -17,3 +17,40 @@ GET http://localhost:80/api/item
 Accept: application/json
 
 ###
+
+GET http://localhost:5041/weatherforecast
+Accept: application/json
+
+## New in HTTP Client
+## Requests with Included Files
+### Sign and verify with RSA-PSS
+< {%
+    const keyPair = crypto.subtle.generateKey({
+            name: "RSA-PSS",
+            modulusLength: 2048,
+            publicExponent: new Uint8Array([1, 0, 1]),
+            hash: "SHA-256"
+        },
+        true,
+        ["sign", "verify"])
+    const text= "Hello, HTTP Client Pre Script!!!";
+    const data = string2byteArray(text);
+    const signature = crypto.subtle.sign(
+        {
+            name: "RSA-PSS",
+        },
+        keyPair.privateKey,
+        data
+    );
+    const verified = crypto.subtle.verify(
+        {
+            name: "RSA-PSS",
+        },
+        keyPair.publicKey,
+        signature,
+        data);
+
+    client.log(`${text}, verified: ${verified}`);
+%}
+
+GET https://examples.http-client.intellij.net
